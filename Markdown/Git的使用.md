@@ -2,7 +2,7 @@
 
 ```
 git clone 网页链接
-    //从仓库获取
+    从仓库获取
 git branch -m master main  
     把分支master改为main
 git init
